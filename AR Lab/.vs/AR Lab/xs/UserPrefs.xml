@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{3B838F32-181B-DAB3-B7B8-6DC0D94ED2A3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WaterEffect.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/MenuManager.cs" Line="1" Column="4" />
+      <File FileName="Assets/_Scripts/Fade.cs" Line="61" Column="1" />
+      <File FileName="Assets/_Scripts/RotateAroundCenter.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/BackManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/OnMouse.cs" Line="1" Column="1" />
+      <File FileName="Assets/WaterEffect.cs" Line="22" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
